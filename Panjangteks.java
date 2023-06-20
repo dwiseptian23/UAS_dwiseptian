@@ -5,6 +5,7 @@ public class Panjangteks {
 
         String kata = input.nextLine();
 
+            
         if(kata.length()==5){
             System.out.println("teks memiliki 5 huruf");
         }else{
